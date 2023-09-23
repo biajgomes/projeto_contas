@@ -1,0 +1,62 @@
+# Arquivos e diretórios gerados pelo ambiente de desenvolvimento
+target/
+bin/
+build/
+.classpath
+.project
+.settings/
+.DS_Store
+*.log
+
+# Dependências geradas pelo Maven
+lib/
+*.jar
+
+# Arquivos de configuração específicos do ambiente
+application.properties
+application.yml
+*.properties
+
+# Logs e arquivos temporários
+*.log
+*.log.*
+logs/
+*.tmp
+
+# Arquivos específicos do IDE (Eclipse, IntelliJ, etc.)
+.idea/
+.vscode/
+
+# Arquivos de cache e configuração local
+*.iml
+*.ipr
+*.iws
+
+# Arquivos de compilação do Gradle
+.gradle/
+
+# Arquivos de configuração do Eclipse
+.classpath
+.project
+.settings/
+
+# Arquivos de configuração do IntelliJ IDEA
+.idea/
+
+# Arquivos de configuração do NetBeans
+nb-configuration.xml
+
+# Dependências do Node.js (se você usar o Node.js no projeto)
+node_modules/
+package-lock.json
+npm-debug.log
+
+# Arquivos de log do Spring Boot
+logs/
+*.log
+
+# Arquivos sensíveis com informações de configuração (por exemplo, chaves de acesso)
+application.properties
+application.yml
+secrets.properties
+secrets.yml
